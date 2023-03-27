@@ -395,7 +395,8 @@ section:first-of-type {
     .cover .container,
     .servicios .container,
     .posibilidades .container,
-    .deServicios  .container {
+    .deServicios  .container,
+    .social .container {
         padding: 0 30px;
     }
 
@@ -457,6 +458,14 @@ section:first-of-type {
 
     section {
         margin-top: 40px;
+    }
+
+    .cover .container,
+    .servicios .container,
+    .posibilidades .container,
+    .deServicios  .container,
+    .social .container {
+        padding: 0 15px;
     }
 
     .servicios h2.title {
