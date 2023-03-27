@@ -118,7 +118,8 @@ section:first-of-type {
 
 .title {
     color: #811d66;
-    font-size: 40px;
+    font-size: 38px;
+    font-weight: 800;
 }
 
 /* cover */
