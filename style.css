@@ -1,16 +1,12 @@
-@font-face {
-    font-family: 'sf-pro';
-    src: url(fonts/SF-Pro.ttf);
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
 
 .container {
     max-width: 1170px;
 }
 
 body {
-    font-family: 'sf-pro';
+    font-family: 'Montserrat', sans-serif;
     background-image: linear-gradient(to right top, #f3eee7, #f5f1eb, #f7f3ef, #f9f6f3, #fbf9f7);
     padding-bottom: 60px;
     line-height: 1.4;    
